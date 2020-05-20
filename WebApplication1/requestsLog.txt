@@ -1,0 +1,54 @@
+Method: GET; Path: /api/students; QueryString: ; Body: ;
+Method: GET; Path: /api/students; QueryString: ; Body: ;
+Method: GET; Path: /favicon.ico; QueryString: ; Body: ;
+Method: GET; Path: /favicon.ico; QueryString: ; Body: ;
+Method: GET; Path: /api/students/s21111; QueryString: ; Body: {
+	"Index":"s1234"
+};
+Method: GET; Path: /api/students/s21111; QueryString: ; Body: {
+	"Index":"s1234"
+};
+Method: GET; Path: /api/students; QueryString: ; Body: {
+	"Index":"s1234"
+};
+Method: GET; Path: /api/students; QueryString: ; Body: {
+	"Index":"s1234"
+};
+Method: GET; Path: /api/students; QueryString: ; Body: {
+	"Index":"s11111"
+};
+Method: GET; Path: /api/students; QueryString: ; Body: {
+	"Index":"s11111"
+};
+Method: GET; Path: /api/students; QueryString: ; Body: ;
+Method: GET; Path: /api/students; QueryString: ; Body: ;
+Method: GET; Path: /favicon.ico; QueryString: ; Body: ;
+Method: GET; Path: /favicon.ico; QueryString: ; Body: ;
+Method: GET; Path: /api/students; QueryString: ; Body: {
+	"Index":"s11111"
+};
+Method: GET; Path: /api/students; QueryString: ; Body: {
+	"Index":"s11111"
+};
+Method: GET; Path: /api/students; QueryString: ; Body: {
+	"Index":"s11111"
+};
+Method: GET; Path: /api/students; QueryString: ; Body: {
+	"Index":"s11111"
+};
+Method: POST; Path: /api/enrollments/promotions; QueryString: ; Body: {
+"Studies": "Budownictwo",
+"Semester": 2
+};
+Method: POST; Path: /api/enrollments/promotions; QueryString: ; Body: {
+"Studies": "Budownictwo",
+"Semester": 2
+};
+Method: GET; Path: /api/students; QueryString: ; Body: {
+	"Index":"s11111"
+};
+Method: GET; Path: /api/students; QueryString: ; Body: {
+	"Index":"s11111"
+};
+Method: GET; Path: /api/students; QueryString: ; Body: ;
+Method: GET; Path: /api/students; QueryString: ; Body: ;
